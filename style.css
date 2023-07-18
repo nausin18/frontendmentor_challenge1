@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(219, 40%, 89%);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+img {
+    border-radius: 10px;
+    width: 240px;
+}
+
+.qr {
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    width: 240px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+p {
+    color: gray;
+}
